@@ -42,6 +42,11 @@ This improves accuracy compared to simple TF-IDF keyword matching.
 
 ---
 
+### 3️⃣ Download the AI Model (One-Time Setup)
+
+Run this command to download the transformer model directly into your project folder:
+pip install -r requirements.txt
+
 ---
 
 ## 📊 Output Example
