@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+torch
+transformers
+scikit-learn
+numpy
+scipy
+PyPDF2
+huggingface-hub
+tqdm
